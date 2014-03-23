@@ -1,0 +1,383 @@
+# Logfile created on Sun Dec 30 21:54:10 -0800 2007 by /
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(+(district_name:lee school_type:lee county_name:lee school_name:lee year:lee) +(district_name:middle school_type:middle county_name:middle school_name:middle year:middle))
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(+(district_name:lee school_type:lee county_name:lee school_name:lee year:lee) +(district_name:middle school_type:middle county_name:middle school_name:middle year:middle))
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(+(district_name:lee school_type:lee county_name:lee school_name:lee year:lee) +(district_name:middle school_type:middle county_name:middle school_name:middle year:middle))
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +school_type:h +(school_name:gunn school_name:palo)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +school_type:h +(school_name:gunn school_name:palo)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:lynbrook school_type:lynbrook school_name:lynbrook year:lynbrook district_name:lynbrook)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:lowell school_type:lowell school_name:lowell year:lowell district_name:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:lowell school_type:lowell school_name:lowell year:lowell district_name:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:lowell school_type:lowell school_name:lowell year:lowell district_name:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:monta school_type:monta school_name:monta year:monta district_name:monta)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:vista school_type:vista school_name:vista year:vista district_name:vista)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:union school_type:union school_name:union year:union district_name:union)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:union school_type:union school_name:union year:union district_name:union)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:union school_type:union school_name:union year:union district_name:union)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:union school_type:union school_name:union year:union district_name:union)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:union school_type:union school_name:union year:union district_name:union)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:union school_type:union school_name:union year:union district_name:union)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:union school_type:union school_name:union year:union district_name:union)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:union school_type:union school_name:union year:union district_name:union)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:lowell school_type:lowell school_name:lowell year:lowell district_name:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:lowell school_type:lowell school_name:lowell year:lowell district_name:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:lowell school_type:lowell school_name:lowell year:lowell district_name:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:bay school_type:bay school_name:bay year:bay district_name:bay)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:lerenzo school_type:lerenzo school_name:lerenzo year:lerenzo district_name:lerenzo)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:lorenzo school_type:lorenzo school_name:lorenzo year:lorenzo district_name:lorenzo)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:washington school_type:washington school_name:washington year:washington district_name:washington)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(+(county_name:alameda school_type:alameda school_name:alameda year:alameda district_name:alameda) +(county_name:high school_type:high school_name:high year:high district_name:high))
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:alameda school_type:alameda school_name:alameda year:alameda district_name:alameda)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +school_name:alameda
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +school_name:"alamea high"
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +school_name:"alameda high"
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:alameda school_type:alameda school_name:alameda year:alameda district_name:alameda)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:"alameda high" school_type:"alameda high" school_name:"alameda high" year:"alameda high" district_name:"alameda high")
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(+(county_name:monta school_type:monta school_name:monta year:monta district_name:monta) +(county_name:high school_type:high school_name:high year:high district_name:high))
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(+(county_name:monta school_type:monta school_name:monta year:monta district_name:monta) +(county_name:high school_type:high school_name:high year:high district_name:high))
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:"alameda high" school_type:"alameda high" school_name:"alameda high" year:"alameda high" district_name:"alameda high")
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:"alameda high" school_type:"alameda high" school_name:"alameda high" year:"alameda high" district_name:"alameda high")
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:alameda school_type:alameda school_name:alameda year:alameda district_name:alameda)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:alameda school_type:alameda school_name:alameda year:alameda district_name:alameda)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:alameda school_type:alameda school_name:alameda year:alameda district_name:alameda)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:alameda school_type:alameda school_name:alameda year:alameda district_name:alameda)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+LocalIndex: ensure_index_exists at script/../config/../index/production/api_growth/20071220065643
+query: +year:2007 +(county_name:alameda school_type:alameda school_name:alameda year:alameda district_name:alameda)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +((district_name:lynbrook school_type:lynbrook county_name:lynbrook school_name:lynbrook year:lynbrook) (district_name:monta school_type:monta county_name:monta school_name:monta year:monta))
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +school_type:h +school_name:hhhigh
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +school_type:h +school_name:high
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(+(district_name:blue school_type:blue county_name:blue school_name:blue year:blue) +(district_name:hills school_type:hills county_name:hills school_name:hills year:hills))
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:cupertino school_type:cupertino county_name:cupertino school_name:cupertino year:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:cupertino school_type:cupertino county_name:cupertino school_name:cupertino year:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:cupertino school_type:cupertino county_name:cupertino school_name:cupertino year:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:cupertino school_type:cupertino county_name:cupertino school_name:cupertino year:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:cupertino school_type:cupertino county_name:cupertino school_name:cupertino year:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:cupertino school_type:cupertino county_name:cupertino school_name:cupertino year:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:cupertino school_type:cupertino county_name:cupertino school_name:cupertino year:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:cupertino school_type:cupertino county_name:cupertino school_name:cupertino year:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:cupertino school_type:cupertino county_name:cupertino school_name:cupertino year:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:lowell school_type:lowell county_name:lowell school_name:lowell year:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:lowell school_type:lowell county_name:lowell school_name:lowell year:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:lowell school_type:lowell county_name:lowell school_name:lowell year:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:lowell school_type:lowell county_name:lowell school_name:lowell year:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(district_name:lowell school_type:lowell county_name:lowell school_name:lowell year:lowell)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +school_type:h +(school_name:lunbrook school_name:"monta vista")
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +school_type:h +(school_name:lynbrook (district_name:"monta vista" school_type:"monta vista" county_name:"monta vista" school_name:"monta vista" year:"monta vista"))
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +school_type:h +(school_name:lynbrook school_name:cupertino)
+stored_fields: 
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+LocalIndex: ensure_index_exists at script/../config/../index/development/api_growth
+query: +year:2007 +(+(district_name:alameda school_type:alameda county_name:alameda school_name:alameda year:alameda) +(district_name:high school_type:high county_name:high school_name:high year:high))
+stored_fields: 

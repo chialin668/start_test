@@ -1,0 +1,20 @@
+
+  <div id="navcontainer">
+    <ul>
+      <li><a href="<%=@app_base%>/" rel="self" <%= %Q(id="current" name="current") if @app_name=='DEMO' %>>iFanSee</a></li>
+      <li><a href="<%=@app_base%>/api" rel="self" <%= %Q(id="current" name="current") if @app_name=='API' %>>API</a></li>
+	  <%
+	  	if session[:user_id] 
+			sign_in_tag="My Profile"
+			user_url="#{@app_base}/my_profile/list"
+		else
+			sign_in_tag="Sign In"
+			user_url="#{@app_base}/user/login"
+		end
+	  %>
+	  <li><a href=<%=user_url%> rel="self" <%= %Q(id="current" name="current") if @app_name=='MY_PROFILE' or @app_name=='USER' %>><%=sign_in_tag%></a></li>
+      <li><a href="<%=@app_base%>/search" rel="self" <%= %Q(id="current" name="current") if @app_name=='SEARCH' %>>Search</a></li>
+	  <li><a href="<%=@app_base%>/about" rel="self" <%= %Q(id="current" name="current") if @app_name=='ABOUT' %>>About</a></li>
+    </ul>
+  </div> <!-- navigation -->
+
